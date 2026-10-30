@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Saad's Daily Hisab",
+  "short_name": "Daily Hisab",
+  "description": "Track JioMart delivery income, expenses and monthly PDF reports.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf6ec",
+  "theme_color": "#3c261d",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
